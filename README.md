@@ -11,9 +11,6 @@
 08 
 09 
 
-# microcontroller
-
-
 
 # การสอน microcontroller
 
