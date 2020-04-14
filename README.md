@@ -1,7 +1,15 @@
 # ITdabos ก๊อด
 
 # Github
-
+01 เริ่มต้นสร้าง Github
+02 สร้าง repository
+03 เริ่มต้นสร้าง web
+04 การเปลี่ยน theme
+05 การใส่ content
+06 การใส่รูป
+07 เปิดร้านค้าด้วย paypal
+08 
+09 
 
 # microcontroller
 
